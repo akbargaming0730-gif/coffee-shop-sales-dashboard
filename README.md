@@ -35,9 +35,9 @@ Excel Dashboard Design for data visualization.
 
 🚀 How to Use
 
-Download the coffee_shop_sales.xlsx file.
+Download the Coffee Shop Sales.rar file.
 
-Open it in Excel (2016 or later recommended).
+Open it in Excel (2019 or later recommended).
 
 Use the slicers to filter by store location and month.
 
